@@ -1,7 +1,5 @@
 #include "util.h"
 
-//char refranes[MAX_REFRANES][REFRAN_SIZE] = { {"A quien madruga, Dios le ayuda"}, {"No hay mal que por bien no venga"}, {"En casa del herrero cuchara de palo"},
-//{"Ojo por ojo, diente por diente"}, {"El que no corre, vuela"} };
 char refranes[MAX_REFRANES][REFRAN_SIZE] = { "de tal palo, tal astilla", "no hay mal que por bien no venga", "en casa del herrero cuchara de palo",
 "ojo por ojo, diente por diente", "el que no corre, vuela" };
 
